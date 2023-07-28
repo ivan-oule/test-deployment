@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "test-deployment",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test-deployment-dev": {
+      "hosting": {
+        "test-deployment": [
+          "test-deployment-dev"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test-deployment-dev"
+  }
+}

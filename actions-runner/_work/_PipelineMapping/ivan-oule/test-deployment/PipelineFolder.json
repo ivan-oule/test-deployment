@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "ivan-oule/test-deployment",
+  "pipelineDirectory": "test-deployment",
+  "workspaceDirectory": "test-deployment/test-deployment",
+  "repositories": {
+    "ivan-oule/test-deployment": {
+      "repositoryPath": "test-deployment/test-deployment",
+      "lastRunOn": "08/01/2023 10:48:59 +00:00"
+    }
+  },
+  "lastRunOn": "08/01/2023 10:48:59 +00:00"
+}

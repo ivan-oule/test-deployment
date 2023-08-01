@@ -4412,3 +4412,79 @@
 [2023-08-01 11:31:56Z INFO JobRunner] Completing the job execution context.
 [2023-08-01 11:31:57Z INFO JobRunner] Shutting down the job server queue.
 [2023-08-01 11:31:57Z INFO JobServerQueue] Fire signal to shutdown all queues.
+[2023-08-01 11:32:46Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/00000000-0000-0000-0000-000000000000/_apis/distributedtask/hubs/Actions/plans/ce587294-8e17-4ac9-82aa-a21be2ab9f44/timelines/ce587294-8e17-4ac9-82aa-a21be2ab9f44/records failed (Socket Error: HostUnreachable). The operation will be retried in 11.039 seconds.
+[2023-08-01 11:33:36Z WARN GitHubActionsService] POST request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/00000000-0000-0000-0000-000000000000/_apis/distributedtask/hubs/Actions/plans/ce587294-8e17-4ac9-82aa-a21be2ab9f44/logs timed out after 100 seconds.
+[2023-08-01 11:33:36Z INFO JobServerQueue] Catch exception during log or attachment file upload, keep going since the process is best effort.
+[2023-08-01 11:33:36Z ERR  JobServerQueue] System.TimeoutException: The HTTP request timed out after 00:01:40.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.ThrottlingReportHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.JobServerQueue.UploadFile(UploadFileInfo file)
+   at GitHub.Runner.Common.JobServerQueue.ProcessFilesUploadQueueAsync(Boolean runOnce)
+[2023-08-01 11:33:36Z ERR  JobServerQueue] #####################################################
+[2023-08-01 11:33:36Z ERR  JobServerQueue] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 11:33:36Z ERR  JobServerQueue] #####################################################
+[2023-08-01 11:33:36Z ERR  JobServerQueue] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 11:33:36Z ERR  JobServerQueue] #####################################################
+[2023-08-01 11:33:36Z ERR  JobServerQueue] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 11:33:36Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 0/1.
+[2023-08-01 11:33:37Z INFO JobServerQueue] All queue process task stopped.
+[2023-08-01 11:33:37Z INFO JobServerQueue] Web console line queue drained.
+[2023-08-01 11:33:37Z INFO JobServerQueue] Uploading 2 files in one shot.
+[2023-08-01 11:33:38Z INFO JobServerQueue] Try to upload 2 log files or attachments, success rate: 2/2.
+[2023-08-01 11:33:38Z INFO JobServerQueue] File upload queue drained.
+[2023-08-01 11:33:38Z INFO JobServerQueue] Starting results-based upload queue...
+[2023-08-01 11:33:38Z INFO JobServerQueue] Results upload queue drained.
+[2023-08-01 11:33:39Z INFO JobServerQueue] Timeline update queue drained.
+[2023-08-01 11:33:39Z INFO JobServerQueue] Disposing job server ...
+[2023-08-01 11:33:39Z INFO JobServerQueue] Disposing results server ...
+[2023-08-01 11:33:39Z INFO JobServerQueue] All queue process tasks have been stopped, and all queues are drained.
+[2023-08-01 11:33:39Z INFO TempDirectoryManager] Cleaning runner temp folder: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp
+[2023-08-01 11:33:39Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:33:39Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:33:39Z INFO HostContext] Well known directory 'Diag': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_diag'
+[2023-08-01 11:33:39Z INFO HostContext] Well known config file 'Telemetry': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_diag/.telemetry'
+[2023-08-01 11:33:39Z INFO JobRunner] Raising job completed event

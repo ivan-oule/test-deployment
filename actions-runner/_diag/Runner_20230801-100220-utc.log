@@ -8494,3 +8494,45 @@
 [2023-08-01 17:27:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
 [2023-08-01 17:27:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
 [2023-08-01 17:37:06Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 17:58:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 17:58:13Z INFO MessageListener] Message '10' received from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d'.
+[2023-08-01 17:58:13Z INFO Runner] Received job message of length 21963 from service, with hash 'd230997e48bc04483b2179ac6a2c94f6637d18d7e4e057d2b9b63ed6528000de'
+[2023-08-01 17:58:13Z INFO JobDispatcher] Job request 14 for plan e670b6db-ebfc-42ee-9b66-3b11eca0aacc job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2023-08-01 17:58:13Z INFO JobDispatcher] Pull OrchestrationId e670b6db-ebfc-42ee-9b66-3b11eca0aacc.build._18_x from JWT claims
+[2023-08-01 17:58:13Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-08-01 17:58:13Z INFO Terminal] WRITE LINE: 2023-08-01 17:58:13Z: Running job: build (18.x)
+[2023-08-01 17:58:13Z INFO JobDispatcher] Start renew job request 14 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 17:58:14Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:08:14
+[2023-08-01 17:58:14Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   File name: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin/Runner.Worker'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 111 114'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-08-01 17:58:14Z INFO ProcessInvokerWrapper] Process started with process id 82011, waiting for process exit.
+[2023-08-01 17:58:14Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 17:58:14Z INFO ProcessChannel] Sending message of length 21963, with hash 'd230997e48bc04483b2179ac6a2c94f6637d18d7e4e057d2b9b63ed6528000de'
+[2023-08-01 17:58:14Z INFO JobNotification] Entering JobStarted Notification
+[2023-08-01 17:58:14Z INFO JobNotification] Entering StartMonitor
+[2023-08-01 17:59:14Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:09:15
+[2023-08-01 18:00:15Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:10:15
+[2023-08-01 18:01:15Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:11:16
+[2023-08-01 18:02:15Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:12:16
+[2023-08-01 18:04:08Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/14?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 10,973 seconds.
+[2023-08-01 18:04:20Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 01/08/2023 18:14:21
+[2023-08-01 18:04:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 18:04:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 18:04:37Z INFO ProcessInvokerWrapper] Finished process 82011 with exit code 102, and elapsed time 00:06:23.5857408.
+[2023-08-01 18:04:37Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 102
+[2023-08-01 18:04:37Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Failed
+[2023-08-01 18:04:37Z INFO Terminal] WRITE LINE: 2023-08-01 18:04:37Z: Job build (18.x) completed with result: Failed
+[2023-08-01 18:04:37Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 18:04:37Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 14.
+[2023-08-01 18:04:37Z INFO JobNotification] Entering JobCompleted Notification
+[2023-08-01 18:04:37Z INFO JobNotification] Entering EndMonitor

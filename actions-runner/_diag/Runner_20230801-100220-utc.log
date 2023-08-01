@@ -7271,3 +7271,1226 @@
 [2023-08-01 12:55:26Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 10.
 [2023-08-01 12:55:26Z INFO JobNotification] Entering JobCompleted Notification
 [2023-08-01 12:55:26Z INFO JobNotification] Entering EndMonitor
+[2023-08-01 12:56:38Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 12:56:38Z INFO MessageListener] Message '8' received from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d'.
+[2023-08-01 12:56:38Z INFO Runner] Received job message of length 21933 from service, with hash 'f3964955fbaf55d18162a8dc1a8c129601958909c87e1505137a58fada27212c'
+[2023-08-01 12:56:38Z INFO JobDispatcher] Job request 12 for plan 9d728924-e58a-4b86-acac-6b71090c47ed job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2023-08-01 12:56:38Z INFO JobDispatcher] Pull OrchestrationId 9d728924-e58a-4b86-acac-6b71090c47ed.build._18_x from JWT claims
+[2023-08-01 12:56:38Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-08-01 12:56:38Z INFO Terminal] WRITE LINE: 2023-08-01 12:56:38Z: Running job: build (18.x)
+[2023-08-01 12:56:38Z INFO JobDispatcher] Start renew job request 12 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 12:56:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:06:40
+[2023-08-01 12:56:40Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   File name: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin/Runner.Worker'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 111 114'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-08-01 12:56:40Z INFO ProcessInvokerWrapper] Process started with process id 63623, waiting for process exit.
+[2023-08-01 12:56:40Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 12:56:40Z INFO ProcessChannel] Sending message of length 21933, with hash 'f3964955fbaf55d18162a8dc1a8c129601958909c87e1505137a58fada27212c'
+[2023-08-01 12:56:40Z INFO JobNotification] Entering JobStarted Notification
+[2023-08-01 12:56:40Z INFO JobNotification] Entering StartMonitor
+[2023-08-01 12:57:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:07:40
+[2023-08-01 12:58:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:08:40
+[2023-08-01 12:59:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:09:41
+[2023-08-01 13:00:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:10:41
+[2023-08-01 13:01:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:11:41
+[2023-08-01 13:03:25Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 10,914 seconds.
+[2023-08-01 13:03:37Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:13:38
+[2023-08-01 13:04:38Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:14:38
+[2023-08-01 13:05:39Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:15:39
+[2023-08-01 13:06:39Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:16:39
+[2023-08-01 13:07:39Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:17:40
+[2023-08-01 13:07:46Z WARN GitHubActionsService] Attempt 1 of GET request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/messages?sessionId=a76a5194-59a3-4cb7-a1d7-45f8778e4c6d&lastMessageId=8&status=Online&runnerVersion=2.307.1 failed (Socket Error: ConnectionReset). The operation will be retried in 10,917 seconds.
+[2023-08-01 13:08:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:18:40
+[2023-08-01 13:09:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:19:40
+[2023-08-01 13:10:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:20:40
+[2023-08-01 13:11:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:21:41
+[2023-08-01 13:12:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:22:41
+[2023-08-01 13:13:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:23:42
+[2023-08-01 13:14:42Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:24:42
+[2023-08-01 13:15:43Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:25:43
+[2023-08-01 13:17:34Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 11,033 seconds.
+[2023-08-01 13:17:46Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:27:46
+[2023-08-01 13:18:46Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:28:46
+[2023-08-01 13:19:46Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:29:47
+[2023-08-01 13:20:47Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:30:47
+[2023-08-01 13:22:47Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:22:47Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:22:47Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:22:47Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:22:47Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:22:47Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:22:47Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:22:47Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:22:47Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:22:47Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 13:30:47.
+[2023-08-01 13:22:47Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:22:47Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:22:47Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:22:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:22:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:23:00Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:33:00
+[2023-08-01 13:23:00Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:24:00Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:34:00
+[2023-08-01 13:25:00Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:35:01
+[2023-08-01 13:26:01Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:36:01
+[2023-08-01 13:27:14Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 13:28:01Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:28:01Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:28:01Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:28:01Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:28:01Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:28:01Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:28:01Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:28:01Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:28:01Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:28:01Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 13:36:01.
+[2023-08-01 13:28:01Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:28:01Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:28:01Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:28:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:28:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:28:10Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:38:10
+[2023-08-01 13:28:10Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:29:10Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:39:10
+[2023-08-01 13:30:10Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:40:11
+[2023-08-01 13:31:11Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:41:11
+[2023-08-01 13:33:11Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:33:11Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:33:11Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:33:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:33:11Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:33:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:33:11Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:33:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:33:11Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:33:11Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 13:41:11.
+[2023-08-01 13:33:11Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:33:11Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:33:11Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:33:11Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:33:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:33:21Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:43:21
+[2023-08-01 13:33:21Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:34:21Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:44:21
+[2023-08-01 13:35:22Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:45:21
+[2023-08-01 13:36:22Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:46:22
+[2023-08-01 13:37:22Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:47:22
+[2023-08-01 13:39:22Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:39:22Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:39:22Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:39:22Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:39:22Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:39:22Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:39:22Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:39:22Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:39:22Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:39:22Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 13:47:22.
+[2023-08-01 13:39:22Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:39:22Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:39:22Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:39:22Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:39:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:39:39Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:49:39
+[2023-08-01 13:39:39Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:40:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:50:40
+[2023-08-01 13:41:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:51:40
+[2023-08-01 13:43:40Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:43:40Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:43:40Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:43:40Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:43:40Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:43:40Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:43:40Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:43:40Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:43:40Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:43:40Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 13:51:40.
+[2023-08-01 13:43:40Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:43:40Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:43:40Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:43:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:43:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:43:48Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:53:48
+[2023-08-01 13:43:48Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:44:49Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:54:49
+[2023-08-01 13:45:49Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 13:45:50Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-01 13:45:51Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:55:51
+[2023-08-01 13:46:51Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:56:52
+[2023-08-01 13:47:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:57:52
+[2023-08-01 13:48:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:58:53
+[2023-08-01 13:49:53Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 13:59:53
+[2023-08-01 13:50:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:00:54
+[2023-08-01 13:51:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:01:55
+[2023-08-01 13:52:56Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:02:56
+[2023-08-01 13:54:56Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 13:54:56Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 13:54:56Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 13:54:56Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:54:56Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 13:54:56Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:54:56Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 13:54:56Z ERR  JobDispatcher] #####################################################
+[2023-08-01 13:54:56Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 13:54:56Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 14:02:56.
+[2023-08-01 13:54:56Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 13:54:56Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 13:54:56Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 13:54:56Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 13:54:57Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 13:55:08Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:05:08
+[2023-08-01 13:55:08Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 13:56:08Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:06:09
+[2023-08-01 13:57:09Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:07:09
+[2023-08-01 13:57:27Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 13:58:10Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:08:10
+[2023-08-01 13:59:11Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:09:11
+[2023-08-01 14:01:11Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 14:01:11Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 14:01:11Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 14:01:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:01:11Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 14:01:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:01:11Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 14:01:11Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:01:11Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 14:01:11Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 14:09:11.
+[2023-08-01 14:01:11Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 14:01:11Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 14:01:11Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 14:01:11Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 14:01:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 14:01:22Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:11:22
+[2023-08-01 14:01:22Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 14:02:22Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:12:23
+[2023-08-01 14:03:23Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:13:23
+[2023-08-01 14:04:24Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:14:24
+[2023-08-01 14:05:24Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:15:25
+[2023-08-01 14:06:25Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:16:25
+[2023-08-01 14:07:26Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:17:26
+[2023-08-01 14:08:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:18:27
+[2023-08-01 14:10:14Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 11,001 seconds.
+[2023-08-01 14:10:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:20:27
+[2023-08-01 14:11:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:21:27
+[2023-08-01 14:12:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:22:28
+[2023-08-01 14:13:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:23:29
+[2023-08-01 14:14:29Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:24:29
+[2023-08-01 14:15:30Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:25:30
+[2023-08-01 14:16:30Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:26:30
+[2023-08-01 14:17:31Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:27:31
+[2023-08-01 14:19:31Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 14:19:31Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 14:19:31Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 14:19:31Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:19:31Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 14:19:31Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:19:31Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 14:19:31Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:19:31Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 14:19:31Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 14:27:31.
+[2023-08-01 14:19:31Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 14:19:31Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 14:19:31Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 14:19:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 14:19:33Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 14:19:39Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:29:39
+[2023-08-01 14:19:39Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 14:20:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:30:40
+[2023-08-01 14:21:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:31:40
+[2023-08-01 14:22:40Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:32:41
+[2023-08-01 14:23:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:33:41
+[2023-08-01 14:24:42Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:34:42
+[2023-08-01 14:25:43Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:35:42
+[2023-08-01 14:26:44Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:36:44
+[2023-08-01 14:27:44Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 14:28:23Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 11,07 seconds.
+[2023-08-01 14:28:35Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:38:36
+[2023-08-01 14:29:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:39:36
+[2023-08-01 14:30:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:40:37
+[2023-08-01 14:31:37Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:41:37
+[2023-08-01 14:32:37Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:42:38
+[2023-08-01 14:33:38Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:43:38
+[2023-08-01 14:34:41Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:44:39
+[2023-08-01 14:35:42Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:45:42
+[2023-08-01 14:36:42Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:46:43
+[2023-08-01 14:37:43Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:47:43
+[2023-08-01 14:38:43Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:48:43
+[2023-08-01 14:39:44Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:49:44
+[2023-08-01 14:40:44Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:50:44
+[2023-08-01 14:41:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 14:41:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-01 14:41:13Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (2,5070868 seconds)
+[2023-08-01 14:42:44Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 14:42:44Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 14:42:44Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 14:42:44Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:42:44Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 14:42:44Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:42:44Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 14:42:44Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:42:44Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 14:42:44Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 14:50:44.
+[2023-08-01 14:42:44Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 14:42:44Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 14:42:44Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 14:42:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 14:42:46Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 14:42:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:52:55
+[2023-08-01 14:42:55Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 14:43:56Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:53:56
+[2023-08-01 14:44:56Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:54:57
+[2023-08-01 14:45:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:55:57
+[2023-08-01 14:46:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:56:58
+[2023-08-01 14:47:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:57:58
+[2023-08-01 14:48:58Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:58:58
+[2023-08-01 14:49:59Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 14:59:59
+[2023-08-01 14:51:00Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:01:00
+[2023-08-01 14:53:00Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 14:53:00Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 14:53:00Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 14:53:00Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:53:00Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 14:53:00Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:53:00Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 14:53:00Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:53:00Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 14:53:00Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:01:00.
+[2023-08-01 14:53:00Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 14:53:00Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 14:53:00Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 14:53:00Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 14:53:01Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 14:53:15Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:03:15
+[2023-08-01 14:53:15Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 14:54:15Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:04:15
+[2023-08-01 14:55:16Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:05:16
+[2023-08-01 14:56:16Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:06:16
+[2023-08-01 14:58:00Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 14:58:16Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 14:58:16Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 14:58:16Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 14:58:16Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:58:16Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 14:58:16Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:58:16Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 14:58:16Z ERR  JobDispatcher] #####################################################
+[2023-08-01 14:58:16Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 14:58:16Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:06:16.
+[2023-08-01 14:58:16Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 14:58:16Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 14:58:16Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 14:58:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 14:58:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 14:58:33Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:08:34
+[2023-08-01 14:58:33Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 14:59:34Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:09:34
+[2023-08-01 15:00:34Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:10:35
+[2023-08-01 15:01:34Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:11:35
+[2023-08-01 15:02:35Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:12:35
+[2023-08-01 15:03:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:13:36
+[2023-08-01 15:04:38Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:14:37
+[2023-08-01 15:06:38Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 15:06:38Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 15:06:38Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 15:06:38Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:06:38Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 15:06:38Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:06:38Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 15:06:38Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:06:38Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 15:06:38Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:14:37.
+[2023-08-01 15:06:38Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 15:06:38Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 15:06:38Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 15:06:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 15:06:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 15:06:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:16:55
+[2023-08-01 15:06:55Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 15:07:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:17:55
+[2023-08-01 15:08:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:18:56
+[2023-08-01 15:09:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:19:56
+[2023-08-01 15:10:56Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:20:57
+[2023-08-01 15:11:56Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:21:57
+[2023-08-01 15:12:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:22:58
+[2023-08-01 15:13:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:23:58
+[2023-08-01 15:14:57Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:24:58
+[2023-08-01 15:15:58Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:25:58
+[2023-08-01 15:16:58Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:26:59
+[2023-08-01 15:17:59Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:27:59
+[2023-08-01 15:19:59Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 15:19:59Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 15:19:59Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 15:19:59Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:19:59Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 15:19:59Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:19:59Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 15:19:59Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:19:59Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 15:19:59Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:27:59.
+[2023-08-01 15:19:59Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 15:19:59Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 15:19:59Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 15:19:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 15:20:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 15:20:12Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:30:13
+[2023-08-01 15:20:12Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 15:21:12Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:31:13
+[2023-08-01 15:22:12Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:32:13
+[2023-08-01 15:23:13Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:33:13
+[2023-08-01 15:25:13Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 15:25:13Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 15:25:13Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 15:25:13Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:25:13Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 15:25:13Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:25:13Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 15:25:13Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:25:13Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 15:25:13Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:33:13.
+[2023-08-01 15:25:13Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 15:25:13Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 15:25:13Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 15:25:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 15:25:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 15:25:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:35:27
+[2023-08-01 15:25:27Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 15:26:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:36:28
+[2023-08-01 15:27:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:37:28
+[2023-08-01 15:28:12Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 15:28:27Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:38:28
+[2023-08-01 15:29:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:39:28
+[2023-08-01 15:30:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:40:29
+[2023-08-01 15:31:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:41:29
+[2023-08-01 15:32:28Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:42:29
+[2023-08-01 15:33:29Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:43:29
+[2023-08-01 15:35:23Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: HostUnreachable). The operation will be retried in 10,871 seconds.
+[2023-08-01 15:35:34Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:45:35
+[2023-08-01 15:36:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 15:36:35Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-01 15:36:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:46:36
+[2023-08-01 15:37:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:47:37
+[2023-08-01 15:38:36Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:48:37
+[2023-08-01 15:40:36Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 15:40:36Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 15:40:36Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 15:40:36Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:40:36Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 15:40:36Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:40:36Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 15:40:36Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:40:36Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 15:40:36Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 15:48:37.
+[2023-08-01 15:40:36Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 15:40:36Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 15:40:36Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 15:40:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 15:40:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 15:40:51Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:50:52
+[2023-08-01 15:40:51Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 15:41:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:51:52
+[2023-08-01 15:42:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:52:53
+[2023-08-01 15:43:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:53:53
+[2023-08-01 15:44:52Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:54:53
+[2023-08-01 15:45:53Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:55:53
+[2023-08-01 15:46:53Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:56:54
+[2023-08-01 15:47:53Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:57:54
+[2023-08-01 15:48:54Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:58:54
+[2023-08-01 15:49:54Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 15:59:55
+[2023-08-01 15:50:54Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:00:55
+[2023-08-01 15:51:54Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:01:55
+[2023-08-01 15:52:55Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:02:55
+[2023-08-01 15:54:55Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE/_apis/distributedtask/pools/1/jobrequests/12?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2023-08-01 15:54:55Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 12.
+[2023-08-01 15:54:55Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(IRunnerServer runnerServer, Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2023-08-01 15:54:55Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:54:55Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-08-01 15:54:55Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:54:55Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-08-01 15:54:55Z ERR  JobDispatcher] #####################################################
+[2023-08-01 15:54:55Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2023-08-01 15:54:55Z INFO JobDispatcher] Retrying lock renewal for jobrequest 12. Job is valid until 01/08/2023 16:02:55.
+[2023-08-01 15:54:55Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2023-08-01 15:54:55Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 15:54:55Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2023-08-01 15:54:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 15:54:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 15:55:01Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:05:02
+[2023-08-01 15:55:01Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2023-08-01 15:56:01Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:06:02
+[2023-08-01 15:57:01Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:07:02
+[2023-08-01 15:58:02Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:08:02
+[2023-08-01 15:58:25Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 15:59:02Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:09:03
+[2023-08-01 16:00:02Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:10:03
+[2023-08-01 16:01:03Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:11:03
+[2023-08-01 16:02:03Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:12:04
+[2023-08-01 16:03:03Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:13:04
+[2023-08-01 16:04:03Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:14:04
+[2023-08-01 16:05:04Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:15:04
+[2023-08-01 16:06:04Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:16:05
+[2023-08-01 16:06:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 16:06:22Z INFO MessageListener] Message '9' received from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d'.
+[2023-08-01 16:06:22Z INFO JobDispatcher] Job cancellation request 6621f301-ad18-5d46-97dd-869f4cb20c65 received, cancellation timeout 5 minutes.
+[2023-08-01 16:06:22Z INFO JobDispatcher] Send job cancellation message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 16:06:22Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2023-08-01 16:07:05Z INFO JobDispatcher] Successfully renew job request 12, job is valid till 01/08/2023 16:17:05
+[2023-08-01 16:07:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 16:07:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 16:07:30Z INFO ProcessInvokerWrapper] Finished process 63623 with exit code 103, and elapsed time 03:10:50.7429029.
+[2023-08-01 16:07:30Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Canceled
+[2023-08-01 16:07:30Z INFO Terminal] WRITE LINE: 2023-08-01 16:07:30Z: Job build (18.x) completed with result: Canceled
+[2023-08-01 16:07:30Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 16:07:30Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 12.
+[2023-08-01 16:07:30Z INFO JobNotification] Entering JobCompleted Notification
+[2023-08-01 16:07:30Z INFO JobNotification] Entering EndMonitor
+[2023-08-01 16:32:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 16:32:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-01 16:36:35Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 17:06:51Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.
+[2023-08-01 17:27:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 17:27:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-01 17:37:06Z INFO MessageListener] No message retrieved from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d' within last 30 minutes.

@@ -1,5 +1,5 @@
 export const environment = {
-  firebase: {
+  firebaseConfig: {
     projectId: 'test-deployment-dev',
     appId: '1:288067644:web:80fa91bcbaec18e3e2b339',
     storageBucket: 'test-deployment-dev.appspot.com',

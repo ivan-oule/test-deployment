@@ -1,0 +1,61 @@
+[2023-08-01 09:58:48Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'Credentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'Runner': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner'
+[2023-08-01 09:58:48Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2023-08-01 09:58:48Z INFO Listener] RuntimeInformation: Darwin 21.6.0 Darwin Kernel Version 21.6.0: Mon Dec 19 20:44:01 PST 2022; root:xnu-8020.240.18~2/RELEASE_X86_64.
+[2023-08-01 09:58:48Z INFO Listener] Version: 2.307.1
+[2023-08-01 09:58:48Z INFO Listener] Commit: 2a7e9ad3a7574c9c3e72b8cf7cf2e19c129d2ca8
+[2023-08-01 09:58:48Z INFO Listener] Culture: fr-FR
+[2023-08-01 09:58:48Z INFO Listener] UI Culture: fr-FR
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO Listener] Validating directory permissions for: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO CommandLineParser] Parse
+[2023-08-01 09:58:48Z INFO CommandLineParser] Parsing 1 args
+[2023-08-01 09:58:48Z INFO CommandLineParser] parsing argument
+[2023-08-01 09:58:48Z INFO CommandLineParser] HasArgs: False
+[2023-08-01 09:58:48Z INFO CommandLineParser] Adding Command: run
+[2023-08-01 09:58:48Z INFO Listener] Arguments parsed
+[2023-08-01 09:58:48Z INFO Runner] ExecuteCommand
+[2023-08-01 09:58:48Z INFO ConfigurationStore] currentAssemblyLocation: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin/Runner.Listener.dll
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] binPath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] RootFolder: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'Runner': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] ConfigFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'Credentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] CredFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_migrated'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] MigratedCredFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_migrated
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 09:58:48Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 09:58:48Z INFO HostContext] Well known config file 'Service': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.service'
+[2023-08-01 09:58:48Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.service
+[2023-08-01 09:58:48Z INFO CommandSettings] Flag 'help': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Flag 'version': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Flag 'check': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Command 'configure': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Command 'remove': 'False'
+[2023-08-01 09:58:48Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-08-01 09:58:48Z INFO ConfigurationManager] LoadSettings
+[2023-08-01 09:58:48Z INFO ConfigurationStore] IsConfigured()
+[2023-08-01 09:58:48Z INFO ConfigurationStore] IsConfigured: False
+[2023-08-01 09:58:48Z INFO ConfigurationManager] Is configured: False
+[2023-08-01 09:58:48Z ERR  Terminal] WRITE ERROR: An error occurred: Not configured. Run config.(sh/cmd) to configure the runner.
+[2023-08-01 09:58:48Z ERR  Listener] GitHub.Runner.Common.NonRetryableException: Not configured. Run config.(sh/cmd) to configure the runner.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.LoadSettings()
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

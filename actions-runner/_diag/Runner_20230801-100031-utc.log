@@ -1,0 +1,139 @@
+[2023-08-01 10:00:31Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-08-01 10:00:31Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:31Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:31Z INFO HostContext] Well known config file 'Credentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials'
+[2023-08-01 10:00:31Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:31Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:31Z INFO HostContext] Well known config file 'Runner': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner'
+[2023-08-01 10:00:32Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2023-08-01 10:00:32Z INFO Listener] RuntimeInformation: Darwin 21.6.0 Darwin Kernel Version 21.6.0: Mon Dec 19 20:44:01 PST 2022; root:xnu-8020.240.18~2/RELEASE_X86_64.
+[2023-08-01 10:00:32Z INFO Listener] Version: 2.307.1
+[2023-08-01 10:00:32Z INFO Listener] Commit: 2a7e9ad3a7574c9c3e72b8cf7cf2e19c129d2ca8
+[2023-08-01 10:00:32Z INFO Listener] Culture: fr-FR
+[2023-08-01 10:00:32Z INFO Listener] UI Culture: fr-FR
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO Listener] Validating directory permissions for: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO CommandLineParser] Parse
+[2023-08-01 10:00:32Z INFO CommandLineParser] Parsing 5 args
+[2023-08-01 10:00:32Z INFO CommandLineParser] parsing argument
+[2023-08-01 10:00:32Z INFO CommandLineParser] HasArgs: False
+[2023-08-01 10:00:32Z INFO CommandLineParser] Adding Command: configure
+[2023-08-01 10:00:32Z INFO CommandLineParser] parsing argument
+[2023-08-01 10:00:32Z INFO CommandLineParser] HasArgs: True
+[2023-08-01 10:00:32Z INFO CommandLineParser] arg: url
+[2023-08-01 10:00:32Z INFO CommandLineParser] parsing argument
+[2023-08-01 10:00:32Z INFO CommandLineParser] HasArgs: True
+[2023-08-01 10:00:32Z INFO CommandLineParser] Adding option 'url': 'https://github.com/ivan-oule/test-deployment'
+[2023-08-01 10:00:32Z INFO CommandLineParser] parsing argument
+[2023-08-01 10:00:32Z INFO CommandLineParser] HasArgs: True
+[2023-08-01 10:00:32Z INFO CommandLineParser] arg: token
+[2023-08-01 10:00:32Z INFO CommandLineParser] parsing argument
+[2023-08-01 10:00:32Z INFO CommandLineParser] HasArgs: True
+[2023-08-01 10:00:32Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-08-01 10:00:32Z INFO Listener] Arguments parsed
+[2023-08-01 10:00:32Z INFO Runner] ExecuteCommand
+[2023-08-01 10:00:32Z INFO ConfigurationStore] currentAssemblyLocation: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin/Runner.Listener.dll
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] binPath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] RootFolder: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO HostContext] Well known config file 'Runner': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] ConfigFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.runner
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO HostContext] Well known config file 'Credentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] CredFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_migrated'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] MigratedCredFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_migrated
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:32Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:32Z INFO HostContext] Well known config file 'Service': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.service'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.service
+[2023-08-01 10:00:32Z INFO CommandSettings] Flag 'help': 'False'
+[2023-08-01 10:00:32Z INFO CommandSettings] Flag 'version': 'False'
+[2023-08-01 10:00:32Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-08-01 10:00:32Z INFO CommandSettings] Flag 'check': 'False'
+[2023-08-01 10:00:32Z INFO CommandSettings] Command 'configure': 'True'
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: 
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE: |                       
+[2023-08-01 10:00:32Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE:                         |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-08-01 10:00:32Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-08-01 10:00:32Z INFO ConfigurationManager] ConfigureAsync
+[2023-08-01 10:00:32Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-08-01 10:00:32Z INFO ConfigurationStore] IsConfigured()
+[2023-08-01 10:00:32Z INFO ConfigurationStore] IsConfigured: False
+[2023-08-01 10:00:32Z INFO ConfigurationManager] Is configured: False
+[2023-08-01 10:00:32Z INFO CommandSettings] Arg 'url': 'https://github.com/ivan-oule/test-deployment'
+[2023-08-01 10:00:32Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-08-01 10:00:32Z INFO CommandSettings] Arg 'token': '***'
+[2023-08-01 10:00:32Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-08-01 10:00:37Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (DBDD:C72A:4CA3B8D:4D4F04C:64C8D7C4)
+[2023-08-01 10:00:37Z INFO ConfigurationManager] Using V2 flow: False
+[2023-08-01 10:00:37Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-08-01 10:00:37Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 10:00:37Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-08-01 10:00:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 10:00:37Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 10:00:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-08-01 10:00:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 10:00:37Z INFO RunnerServer] EstablishVssConnection
+[2023-08-01 10:00:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-08-01 10:00:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-01 10:00:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 10:00:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 10:00:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-01 10:00:39Z INFO Terminal] WRITE LINE: 
+[2023-08-01 10:00:39Z INFO ConfigurationManager] Test Connection complete.
+[2023-08-01 10:00:39Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:39Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:39Z INFO HostContext] Well known config file 'RSACredentials': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams'
+[2023-08-01 10:00:39Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-08-01 10:00:39Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 10:00:39Z INFO RSAFileKeyManager] Which: 'chmod'
+[2023-08-01 10:00:39Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2023-08-01 10:00:39Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 10:00:39Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper] Process started with process id 54162, waiting for process exit.
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 10:00:40Z INFO ProcessInvokerWrapper] Finished process 54162 with exit code 0, and elapsed time 00:00:00.1791341.
+[2023-08-01 10:00:40Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 10:00:40Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-08-01 10:00:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-08-01 10:00:40Z INFO PromptManager] ReadValue
+[2023-08-01 10:00:40Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-08-01 10:00:40Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-08-01 10:00:40Z INFO Terminal] READ LINE
+[2023-08-01 10:01:09Z INFO Terminal] Read value: 'test-deployment-runner'
+[2023-08-01 10:01:09Z INFO Terminal] WRITE LINE: 
+[2023-08-01 10:01:09Z ERR  Runner] GitHub.DistributedTask.WebApi.TaskAgentPoolNotFoundException: Could not find any self-hosted runner group named "test-deployment-runner".
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2023-08-01 10:01:09Z ERR  Terminal] WRITE ERROR: Could not find any self-hosted runner group named "test-deployment-runner".
+[2023-08-01 10:01:09Z INFO Listener] Runner execution has finished with return code 1

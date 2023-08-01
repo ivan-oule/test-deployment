@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "test-deployment-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/TxlRNefpBS9a2M795nHVt8jo05KxUXjlmKdyPgDvJybOrShnnE",
+  "gitHubUrl": "https://github.com/ivan-oule/test-deployment",
+  "workFolder": "_work"
+}

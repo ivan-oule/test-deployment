@@ -1,7 +1,8 @@
 {
   "projects": {
     "default": "test-deployment-dev",
-    "express-auto-deploy": "express-auto-deploy"
+    "express-auto-deploy": "express-auto-deploy",
+    "jus-anou": "jus-anou-3fc52"
   },
   "targets": {
     "test-deployment-dev": {

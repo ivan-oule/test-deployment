@@ -895,4 +895,158 @@
 2023-08-01T11:29:41.3499930Z Receiving objects:   3% (380/9606), 39.31 MiB | 32.00 KiB/s
 2023-08-01T11:29:42.6342040Z Receiving objects:   3% (380/9606), 39.33 MiB | 33.00 KiB/s
 2023-08-01T11:29:43.7591260Z Receiving objects:   3% (380/9606), 39.38 MiB | 34.00 KiB/s
-2023-08-01T11:29:44.3550090Z Receiving objects:   3% (380/9606),
+2023-08-01T11:29:44.3550090Z Receiving objects:   3% (380/9606), 39.43 MiB | 37.00 KiB/s
+2023-08-01T11:29:45.4049320Z Receiving objects:   3% (380/9606), 39.46 MiB | 38.00 KiB/s
+2023-08-01T11:29:46.7128220Z Receiving objects:   3% (380/9606), 39.53 MiB | 45.00 KiB/s
+2023-08-01T11:29:47.9814470Z Receiving objects:   3% (380/9606), 39.62 MiB | 55.00 KiB/s
+2023-08-01T11:29:48.6684060Z Receiving objects:   3% (380/9606), 39.70 MiB | 61.00 KiB/s
+2023-08-01T11:29:49.9630870Z Receiving objects:   3% (380/9606), 39.73 MiB | 62.00 KiB/s
+2023-08-01T11:29:50.4911780Z Receiving objects:   3% (380/9606), 39.79 MiB | 61.00 KiB/s
+2023-08-01T11:29:51.5376930Z Receiving objects:   3% (380/9606), 39.82 MiB | 61.00 KiB/s
+2023-08-01T11:29:52.6435000Z Receiving objects:   3% (380/9606), 39.89 MiB | 58.00 KiB/s
+2023-08-01T11:29:53.6831740Z Receiving objects:   3% (380/9606), 39.94 MiB | 55.00 KiB/s
+2023-08-01T11:29:54.8404260Z Receiving objects:   3% (380/9606), 40.00 MiB | 55.00 KiB/s
+2023-08-01T11:29:55.3787910Z Receiving objects:   3% (380/9606), 40.07 MiB | 57.00 KiB/s
+2023-08-01T11:29:56.6142900Z Receiving objects:   3% (380/9606), 40.11 MiB | 58.00 KiB/s
+2023-08-01T11:29:57.6740580Z Receiving objects:   3% (380/9606), 40.18 MiB | 58.00 KiB/s
+2023-08-01T11:29:58.7767640Z Receiving objects:   3% (380/9606), 40.25 MiB | 62.00 KiB/s
+2023-08-01T11:29:59.8144790Z Receiving objects:   3% (380/9606), 40.31 MiB | 61.00 KiB/s
+2023-08-01T11:30:00.3435590Z Receiving objects:   3% (380/9606), 40.39 MiB | 65.00 KiB/s
+2023-08-01T11:30:01.3990660Z Receiving objects:   3% (380/9606), 40.43 MiB | 66.00 KiB/s
+2023-08-01T11:30:02.4183760Z Receiving objects:   3% (380/9606), 40.52 MiB | 73.00 KiB/s
+2023-08-01T11:30:03.5075960Z Receiving objects:   3% (380/9606), 40.62 MiB | 81.00 KiB/s
+2023-08-01T11:30:04.5411850Z Receiving objects:   3% (380/9606), 40.74 MiB | 93.00 KiB/s
+2023-08-01T11:30:05.6054620Z Receiving objects:   3% (380/9606), 40.83 MiB | 96.00 KiB/s
+2023-08-01T11:30:06.7058230Z Receiving objects:   3% (380/9606), 40.93 MiB | 99.00 KiB/s
+2023-08-01T11:30:07.7610560Z Receiving objects:   3% (380/9606), 41.04 MiB | 98.00 KiB/s
+2023-08-01T11:30:08.8127130Z Receiving objects:   3% (380/9606), 41.15 MiB | 99.00 KiB/s
+2023-08-01T11:30:10.0220770Z Receiving objects:   3% (380/9606), 41.24 MiB | 97.00 KiB/s
+2023-08-01T11:30:10.5572920Z Receiving objects:   3% (380/9606), 41.25 MiB | 77.00 KiB/s
+2023-08-01T11:30:11.6439650Z Receiving objects:   3% (380/9606), 41.34 MiB | 84.00 KiB/s
+2023-08-01T11:30:12.4719840Z Receiving objects:   3% (380/9606), 41.40 MiB | 79.00 KiB/s
+2023-08-01T11:30:13.7005190Z Receiving objects:   3% (380/9606), 41.44 MiB | 70.00 KiB/s
+2023-08-01T11:30:14.5836300Z Receiving objects:   3% (380/9606), 41.49 MiB | 57.00 KiB/s
+2023-08-01T11:30:15.7942040Z Receiving objects:   3% (380/9606), 41.51 MiB | 53.00 KiB/s
+2023-08-01T11:30:16.8861280Z Receiving objects:   3% (380/9606), 41.55 MiB | 54.00 KiB/s
+2023-08-01T11:30:17.4613910Z Receiving objects:   3% (380/9606), 41.59 MiB | 37.00 KiB/s
+2023-08-01T11:30:18.6865520Z Receiving objects:   3% (380/9606), 41.61 MiB | 37.00 KiB/s
+2023-08-01T11:30:20.8619980Z Receiving objects:   3% (380/9606), 41.65 MiB | 33.00 KiB/s
+2023-08-01T11:30:21.5747540Z Receiving objects:   3% (380/9606), 41.70 MiB | 30.00 KiB/s
+2023-08-01T11:30:22.7283040Z Receiving objects:   3% (380/9606), 41.78 MiB | 39.00 KiB/s
+2023-08-01T11:30:23.4877930Z Receiving objects:   3% (380/9606), 41.81 MiB | 37.00 KiB/s
+2023-08-01T11:30:24.5211830Z Receiving objects:   3% (380/9606), 41.82 MiB | 36.00 KiB/s
+2023-08-01T11:30:25.7277750Z Receiving objects:   3% (380/9606), 41.84 MiB | 32.00 KiB/s
+2023-08-01T11:30:26.7580530Z Receiving objects:   3% (380/9606), 41.87 MiB | 31.00 KiB/s
+2023-08-01T11:30:28.0210820Z Receiving objects:   3% (380/9606), 41.93 MiB | 39.00 KiB/s
+2023-08-01T11:30:28.5430870Z Receiving objects:   3% (380/9606), 42.00 MiB | 33.00 KiB/s
+2023-08-01T11:30:29.8891960Z Receiving objects:   3% (380/9606), 42.02 MiB | 37.00 KiB/s
+2023-08-01T11:30:30.4105510Z Receiving objects:   3% (380/9606), 42.06 MiB | 41.00 KiB/s
+2023-08-01T11:30:31.6343540Z Receiving objects:   3% (380/9606), 42.07 MiB | 43.00 KiB/s
+2023-08-01T11:30:32.6824160Z Receiving objects:   3% (380/9606), 42.12 MiB | 42.00 KiB/s
+2023-08-01T11:30:33.3477420Z Receiving objects:   3% (380/9606), 42.18 MiB | 41.00 KiB/s
+2023-08-01T11:30:34.4620820Z Receiving objects:   3% (380/9606), 42.20 MiB | 39.00 KiB/s
+2023-08-01T11:30:35.5337690Z Receiving objects:   3% (380/9606), 42.25 MiB | 43.00 KiB/s
+2023-08-01T11:30:37.6971740Z Receiving objects:   3% (380/9606), 42.32 MiB | 50.00 KiB/s
+2023-08-01T11:30:38.3349130Z Receiving objects:   3% (380/9606), 42.39 MiB | 44.00 KiB/s
+2023-08-01T11:30:39.5110700Z Receiving objects:   3% (380/9606), 42.47 MiB | 54.00 KiB/s
+2023-08-01T11:30:40.8990630Z Receiving objects:   3% (380/9606), 42.52 MiB | 53.00 KiB/s
+2023-08-01T11:30:41.6170160Z Receiving objects:   3% (380/9606), 42.59 MiB | 53.00 KiB/s
+2023-08-01T11:30:42.7015110Z Receiving objects:   3% (380/9606), 42.62 MiB | 51.00 KiB/s
+2023-08-01T11:30:43.3617410Z Receiving objects:   3% (380/9606), 42.68 MiB | 51.00 KiB/s
+2023-08-01T11:30:44.3916290Z Receiving objects:   3% (380/9606), 42.72 MiB | 60.00 KiB/s
+2023-08-01T11:30:45.4853890Z Receiving objects:   3% (380/9606), 42.78 MiB | 53.00 KiB/s
+2023-08-01T11:30:46.5069490Z Receiving objects:   3% (380/9606), 42.85 MiB | 59.00 KiB/s
+2023-08-01T11:30:47.7569540Z Receiving objects:   3% (380/9606), 42.87 MiB | 51.00 KiB/s
+2023-08-01T11:30:48.8335050Z Receiving objects:   3% (380/9606), 42.91 MiB | 47.00 KiB/s
+2023-08-01T11:30:49.3594990Z Receiving objects:   3% (380/9606), 42.96 MiB | 43.00 KiB/s
+2023-08-01T11:30:50.5425540Z Receiving objects:   3% (380/9606), 42.98 MiB | 40.00 KiB/s
+2023-08-01T11:30:51.7008060Z Receiving objects:   3% (380/9606), 43.05 MiB | 39.00 KiB/s
+2023-08-01T11:30:52.9111180Z Receiving objects:   3% (380/9606), 43.12 MiB | 49.00 KiB/s
+2023-08-01T11:30:53.4153090Z Receiving objects:   3% (380/9606), 43.21 MiB | 59.00 KiB/s
+2023-08-01T11:30:55.1956680Z Receiving objects:   3% (380/9606), 43.24 MiB | 61.00 KiB/s
+2023-08-01T11:30:55.7070390Z Receiving objects:   3% (380/9606), 43.28 MiB | 52.00 KiB/s
+2023-08-01T11:30:56.7423090Z Receiving objects:   3% (380/9606), 43.37 MiB | 63.00 KiB/s
+2023-08-01T11:30:57.5773190Z Receiving objects:   3% (380/9606), 43.46 MiB | 67.00 KiB/s
+2023-08-01T11:30:58.7986860Z Receiving objects:   3% (380/9606), 43.50 MiB | 66.00 KiB/s
+2023-08-01T11:30:59.9022920Z Receiving objects:   3% (380/9606), 43.57 MiB | 62.00 KiB/s
+2023-08-01T11:31:00.4242810Z Receiving objects:   3% (380/9606), 43.61 MiB | 58.00 KiB/s
+2023-08-01T11:31:01.6090830Z Receiving objects:   3% (380/9606), 43.64 MiB | 70.00 KiB/s
+2023-08-01T11:31:02.8754390Z Receiving objects:   3% (380/9606), 43.71 MiB | 54.00 KiB/s
+2023-08-01T11:31:03.4539320Z Receiving objects:   3% (380/9606), 43.77 MiB | 51.00 KiB/s
+2023-08-01T11:31:04.7945060Z Receiving objects:   3% (380/9606), 43.80 MiB | 51.00 KiB/s
+2023-08-01T11:31:05.0332590Z Receiving objects:   3% (380/9606), 43.86 MiB | 51.00 KiB/s
+2023-08-01T11:31:05.3473380Z Receiving objects:   4% (385/9606), 43.86 MiB | 51.00 KiB/s
+2023-08-01T11:31:06.4882060Z Receiving objects:   4% (390/9606), 43.89 MiB | 54.00 KiB/s
+2023-08-01T11:31:07.3822690Z Receiving objects:   4% (424/9606), 43.94 MiB | 50.00 KiB/s
+2023-08-01T11:31:08.4627900Z Receiving objects:   4% (442/9606), 43.98 MiB | 51.00 KiB/s
+2023-08-01T11:31:08.7866540Z Receiving objects:   4% (450/9606), 44.06 MiB | 52.00 KiB/s
+2023-08-01T11:31:08.7885450Z Receiving objects:   5% (481/9606), 44.06 MiB | 52.00 KiB/s
+2023-08-01T11:31:08.9319280Z Receiving objects:   6% (577/9606), 44.06 MiB | 52.00 KiB/s
+2023-08-01T11:31:09.2134470Z Receiving objects:   7% (673/9606), 44.06 MiB | 52.00 KiB/s
+2023-08-01T11:31:09.7347550Z Receiving objects:   8% (769/9606), 44.11 MiB | 54.00 KiB/s
+2023-08-01T11:31:10.3945180Z Receiving objects:   8% (778/9606), 44.13 MiB | 54.00 KiB/s
+2023-08-01T11:31:11.4885270Z Receiving objects:   8% (812/9606), 44.16 MiB | 54.00 KiB/s
+2023-08-01T11:31:11.6079440Z Receiving objects:   8% (853/9606), 44.23 MiB | 56.00 KiB/s
+2023-08-01T11:31:12.3871640Z Receiving objects:   9% (865/9606), 44.23 MiB | 56.00 KiB/s
+2023-08-01T11:31:13.3776590Z Receiving objects:   9% (888/9606), 44.27 MiB | 59.00 KiB/s
+2023-08-01T11:31:13.3786780Z Receiving objects:   9% (953/9606), 44.34 MiB | 58.00 KiB/s
+2023-08-01T11:31:14.3484050Z Receiving objects:  10% (961/9606), 44.34 MiB | 58.00 KiB/s
+2023-08-01T11:31:15.4753400Z Receiving objects:  10% (983/9606), 44.37 MiB | 58.00 KiB/s
+2023-08-01T11:31:16.4722050Z Receiving objects:  10% (998/9606), 44.43 MiB | 56.00 KiB/s
+2023-08-01T11:31:17.5309630Z Receiving objects:  10% (1005/9606), 44.49 MiB | 55.00 KiB/s
+2023-08-01T11:31:18.8369820Z Receiving objects:  10% (1023/9606), 44.54 MiB | 51.00 KiB/s
+2023-08-01T11:31:19.3528890Z Receiving objects:  10% (1036/9606), 44.61 MiB | 50.00 KiB/s
+2023-08-01T11:31:20.4759900Z Receiving objects:  10% (1036/9606), 44.66 MiB | 54.00 KiB/s
+2023-08-01T11:31:21.5865250Z Receiving objects:  10% (1036/9606), 44.73 MiB | 58.00 KiB/s
+2023-08-01T11:31:22.6607780Z Receiving objects:  10% (1036/9606), 44.79 MiB | 61.00 KiB/s
+2023-08-01T11:31:22.8128200Z Receiving objects:  10% (1036/9606), 44.82 MiB | 54.00 KiB/s
+2023-08-01T11:31:23.3599080Z Receiving objects:  11% (1057/9606), 44.82 MiB | 54.00 KiB/s
+2023-08-01T11:31:24.2263570Z Receiving objects:  11% (1117/9606), 44.84 MiB | 53.00 KiB/s
+2023-08-01T11:31:24.3680600Z Receiving objects:  12% (1153/9606), 44.86 MiB | 51.00 KiB/s
+2023-08-01T11:31:25.4348840Z Receiving objects:  12% (1155/9606), 44.89 MiB | 47.00 KiB/s
+2023-08-01T11:31:26.2885560Z Receiving objects:  12% (1217/9606), 44.96 MiB | 48.00 KiB/s
+2023-08-01T11:31:26.4764000Z Receiving objects:  13% (1249/9606), 45.00 MiB | 50.00 KiB/s
+2023-08-01T11:31:27.3527650Z Receiving objects:  13% (1250/9606), 45.06 MiB | 55.00 KiB/s
+2023-08-01T11:31:28.5454790Z Receiving objects:  13% (1289/9606), 45.10 MiB | 62.00 KiB/s
+2023-08-01T11:31:29.0376720Z Receiving objects:  13% (1322/9606), 45.16 MiB | 67.00 KiB/s
+2023-08-01T11:31:29.4757850Z Receiving objects:  14% (1345/9606), 45.18 MiB | 68.00 KiB/s
+2023-08-01T11:31:30.4726980Z Receiving objects:  14% (1351/9606), 45.22 MiB | 69.00 KiB/s
+2023-08-01T11:31:30.6640900Z Receiving objects:  14% (1421/9606), 45.29 MiB | 67.00 KiB/s
+2023-08-01T11:31:31.3620510Z Receiving objects:  15% (1441/9606), 45.29 MiB | 67.00 KiB/s
+2023-08-01T11:31:32.3883850Z Receiving objects:  15% (1471/9606), 45.36 MiB | 62.00 KiB/s
+2023-08-01T11:31:32.3944160Z Receiving objects:  15% (1513/9606), 45.40 MiB | 63.00 KiB/s
+2023-08-01T11:31:33.4581620Z Receiving objects:  16% (1537/9606), 45.40 MiB | 63.00 KiB/s
+2023-08-01T11:31:34.3329160Z Receiving objects:  16% (1574/9606), 45.48 MiB | 66.00 KiB/s
+2023-08-01T11:31:35.1634190Z Receiving objects:  16% (1590/9606), 45.53 MiB | 62.00 KiB/s
+2023-08-01T11:31:35.3980990Z Receiving objects:  17% (1634/9606), 45.54 MiB | 59.00 KiB/s
+2023-08-01T11:31:36.3277840Z Receiving objects:  17% (1651/9606), 45.57 MiB | 58.00 KiB/s
+2023-08-01T11:31:37.5322390Z Receiving objects:  17% (1693/9606), 45.62 MiB | 54.00 KiB/s
+2023-08-01T11:31:37.5366950Z Receiving objects:  17% (1724/9606), 45.69 MiB | 48.00 KiB/s
+2023-08-01T11:31:38.8173670Z Receiving objects:  18% (1730/9606), 45.69 MiB | 48.00 KiB/s
+2023-08-01T11:31:38.8220380Z Receiving objects:  18% (1745/9606), 45.73 MiB | 44.00 KiB/s
+2023-08-01T11:31:39.4238810Z Receiving objects:  19% (1826/9606), 45.73 MiB | 44.00 KiB/s
+2023-08-01T11:31:39.4242120Z Receiving objects:  19% (1921/9606), 45.84 MiB | 60.00 KiB/s
+2023-08-01T11:31:39.9569390Z Receiving objects:  20% (1922/9606), 45.84 MiB | 60.00 KiB/s
+2023-08-01T11:31:40.2765090Z Receiving objects:  21% (2018/9606), 45.88 MiB | 63.00 KiB/s
+2023-08-01T11:31:40.4538700Z Receiving objects:  22% (2114/9606), 45.88 MiB | 63.00 KiB/s
+2023-08-01T11:31:40.8183330Z Receiving objects:  22% (2123/9606), 45.95 MiB | 72.00 KiB/s
+2023-08-01T11:31:41.2585920Z Receiving objects:  23% (2210/9606), 45.95 MiB | 72.00 KiB/s
+2023-08-01T11:31:41.3567860Z Receiving objects:  24% (2306/9606), 46.01 MiB | 79.00 KiB/s
+2023-08-01T11:31:42.2873670Z Receiving objects:  24% (2318/9606), 46.01 MiB | 79.00 KiB/s
+2023-08-01T11:31:42.3744940Z Receiving objects:  25% (2402/9606), 46.15 MiB | 95.00 KiB/s
+2023-08-01T11:31:42.4475330Z Receiving objects:  25% (2409/9606), 46.15 MiB | 95.00 KiB/s
+2023-08-01T11:31:42.6463930Z ##[error]The operation was canceled.
+2023-08-01T11:31:42.8868790Z Post job cleanup.
+2023-08-01T11:31:44.3666500Z [command]/usr/bin/git version
+2023-08-01T11:31:44.5564680Z git version 2.37.0 (Apple Git-136)
+2023-08-01T11:31:44.6070660Z Copying '/Users/faisceaume/.gitconfig' to '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/3458b443-99f2-4fc9-9a61-d65e5dcf73dc/.gitconfig'
+2023-08-01T11:31:44.6278020Z Temporarily overriding HOME='/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/3458b443-99f2-4fc9-9a61-d65e5dcf73dc' before making global git config changes
+2023-08-01T11:31:44.6678900Z Adding repository directory to the temporary git global config as a safe directory
+2023-08-01T11:31:44.7152350Z [command]/usr/bin/git config --global --add safe.directory /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/test-deployment/test-deployment
+2023-08-01T11:31:53.0564450Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2023-08-01T11:31:53.1301550Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2023-08-01T11:31:54.0223310Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2023-08-01T11:31:54.1568870Z http.https://github.com/.extraheader
+2023-08-01T11:31:54.1848020Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2023-08-01T11:31:54.4924600Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2023-08-01T11:31:55.6339090Z Cleaning up orphan processes

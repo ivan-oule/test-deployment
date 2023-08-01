@@ -1,0 +1,13 @@
+﻿2023-08-01T11:31:42.8868670Z Post job cleanup.
+2023-08-01T11:31:44.3666220Z [command]/usr/bin/git version
+2023-08-01T11:31:44.5564500Z git version 2.37.0 (Apple Git-136)
+2023-08-01T11:31:44.6070560Z Copying '/Users/faisceaume/.gitconfig' to '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/3458b443-99f2-4fc9-9a61-d65e5dcf73dc/.gitconfig'
+2023-08-01T11:31:44.6277910Z Temporarily overriding HOME='/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/3458b443-99f2-4fc9-9a61-d65e5dcf73dc' before making global git config changes
+2023-08-01T11:31:44.6678800Z Adding repository directory to the temporary git global config as a safe directory
+2023-08-01T11:31:44.7152250Z [command]/usr/bin/git config --global --add safe.directory /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/test-deployment/test-deployment
+2023-08-01T11:31:53.0564330Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2023-08-01T11:31:53.1301030Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2023-08-01T11:31:54.0222800Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2023-08-01T11:31:54.1568730Z http.https://github.com/.extraheader
+2023-08-01T11:31:54.1847850Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2023-08-01T11:31:54.4924490Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"

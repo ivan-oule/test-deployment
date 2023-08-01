@@ -3632,3 +3632,783 @@
 [2023-08-01 11:30:25Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
 [2023-08-01 11:30:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
 [2023-08-01 11:30:28Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:28Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:30Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:30:30Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:30:30Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:30:30Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:30Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:31Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:32Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:33Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:34Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:35Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:37Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:38Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:39Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:40Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:30:40Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:30:40Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:30:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:42Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:44Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:45Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:46Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:47Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:48Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:49Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:50Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:30:50Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:30:50Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:30:50Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:51Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:52Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:53Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:55Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:55Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:56Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:58Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:30:59Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:00Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:00Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:00Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:00Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:00Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:02Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:03Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:03Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:05Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:05Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:06Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:07Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:08Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:09Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:09Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:10Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:10Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:10Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:10Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:10Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:11Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:12Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:13Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:14Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:15Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:16Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:17Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:19Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:19Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:20Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:20Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:20Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:20Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:21Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:22Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:24Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:24Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:25Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:27Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:28Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:29Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:29Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:30Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:30Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:30Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:30Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:31Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:32Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:33Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:34Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:35Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:35Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:36Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:37Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:38Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:39Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:39Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:40Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:40Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:40Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:42Z INFO ProcessChannel] Receiving message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2023-08-01 11:31:42Z INFO Worker] Cancellation/Shutdown message received.
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: success()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: false
+[2023-08-01 11:31:42Z INFO StepsRunner] Cancel current running step.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Sending SIGINT to process 59352.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Successfully send SIGINT to process 59352.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Waiting for process exit or 7.5 seconds after SIGINT signal fired.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Process exit successfully.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Process cancelled successfully through Ctrl+C/SIGINT.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Process Cancellation finished.
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Finished process 59352 with exit code 130, and elapsed time 00:14:31.1726143.
+[2023-08-01 11:31:42Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:42Z INFO CreateStepSummaryCommand] Step Summary file (/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/_runner_file_commands/step_summary_ef5e416c-5a7a-4651-bab2-60993249b89f) is empty; skipping attachment upload
+[2023-08-01 11:31:42Z ERR  StepsRunner] Caught cancellation exception from step: System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at GitHub.Runner.Sdk.ProcessInvoker.ExecuteAsync(String workingDirectory, String fileName, String arguments, IDictionary`2 environment, Boolean requireExitCodeZero, Encoding outputEncoding, Boolean killProcessOnCancel, Channel`1 redirectStandardIn, Boolean inheritConsoleHandler, Boolean keepStandardInOpen, Boolean highPriorityProcess, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.ProcessInvokerWrapper.ExecuteAsync(String workingDirectory, String fileName, String arguments, IDictionary`2 environment, Boolean requireExitCodeZero, Encoding outputEncoding, Boolean killProcessOnCancel, Channel`1 redirectStandardIn, Boolean inheritConsoleHandler, Boolean keepStandardInOpen, Boolean highPriorityProcess, CancellationToken cancellationToken)
+   at GitHub.Runner.Worker.Handlers.DefaultStepHost.ExecuteAsync(IExecutionContext context, String workingDirectory, String fileName, String arguments, IDictionary`2 environment, Boolean requireExitCodeZero, Encoding outputEncoding, Boolean killProcessOnCancel, Boolean inheritConsoleHandler, String standardInInput, CancellationToken cancellationToken)
+   at GitHub.Runner.Worker.Handlers.NodeScriptActionHandler.RunAsync(ActionRunStage stage)
+   at GitHub.Runner.Worker.ActionRunner.RunAsync()
+   at GitHub.Runner.Worker.StepsRunner.RunStepAsync(IStep step, CancellationToken jobCancellationToken)
+[2023-08-01 11:31:42Z INFO StepsRunner] Step result: Canceled
+[2023-08-01 11:31:42Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/checkout",
+  "ref": "v3",
+  "type": "node16",
+  "stage": "Main",
+  "stepId": "5d7618ff-3bb2-5757-b1b5-7570fdc92efe",
+  "stepContextName": "__actions_checkout",
+  "hasPreStep": false,
+  "hasPostStep": true,
+  "result": "canceled",
+  "errorMessages": [
+    "no submodule mapping found in .gitmodules for path 'actions-runner/_work/test-deployment/test-deployment'",
+    "Unable to clean or reset the repository. The repository will be recreated instead.",
+    "The operation was canceled."
+  ],
+  "executionTimeInSeconds": 873,
+  "startTime": "2023-08-01T11:17:10.049092Z",
+  "finishTime": "2023-08-01T11:31:42.656928Z"
+}.
+[2023-08-01 11:31:42Z INFO StepsRunner] No need for updating job result with current step result 'Canceled'.
+[2023-08-01 11:31:42Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:42Z INFO StepsRunner] Processing step: DisplayName='Use Node.js 18.x'
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: success()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: false
+[2023-08-01 11:31:42Z INFO StepsRunner] Skipping step due to condition evaluation.
+[2023-08-01 11:31:42Z INFO StepsRunner] No need for updating job result with current step result 'Skipped'.
+[2023-08-01 11:31:42Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:42Z INFO StepsRunner] Processing step: DisplayName='Run npm i'
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: success()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: false
+[2023-08-01 11:31:42Z INFO StepsRunner] Skipping step due to condition evaluation.
+[2023-08-01 11:31:42Z INFO StepsRunner] No need for updating job result with current step result 'Skipped'.
+[2023-08-01 11:31:42Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:42Z INFO StepsRunner] Processing step: DisplayName='Run npm run build --if-present'
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: success()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: false
+[2023-08-01 11:31:42Z INFO StepsRunner] Skipping step due to condition evaluation.
+[2023-08-01 11:31:42Z INFO StepsRunner] No need for updating job result with current step result 'Skipped'.
+[2023-08-01 11:31:42Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:42Z INFO StepsRunner] Processing step: DisplayName='Run npm start -o'
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: success()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: false
+[2023-08-01 11:31:42Z INFO StepsRunner] Skipping step due to condition evaluation.
+[2023-08-01 11:31:42Z INFO StepsRunner] No need for updating job result with current step result 'Skipped'.
+[2023-08-01 11:31:42Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:42Z INFO StepsRunner] Processing step: DisplayName='Post Run actions/checkout@v3'
+[2023-08-01 11:31:42Z INFO StepsRunner] Evaluating: always()
+[2023-08-01 11:31:42Z INFO StepsRunner] Result: true
+[2023-08-01 11:31:42Z INFO StepsRunner] Starting the step.
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Actions': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_actions'
+[2023-08-01 11:31:42Z INFO ActionManager] Load action that reference repository from '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_actions/actions/checkout/v3'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Actions': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_actions'
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Loaded action.yml file: {
+  "name": "Checkout",
+  "description": "Checkout a Git repository at a particular version",
+  "inputs": {
+    "type": 2,
+    "map": [
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 4,
+          "col": 3,
+          "lit": "repository"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 6,
+          "col": 14,
+          "expr": "github.repository"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 7,
+          "col": 3,
+          "lit": "ref"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 12,
+          "col": 3,
+          "lit": "token"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 24,
+          "col": 14,
+          "expr": "github.token"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 25,
+          "col": 3,
+          "lit": "ssh-key"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 37,
+          "col": 3,
+          "lit": "ssh-known-hosts"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 42,
+          "col": 3,
+          "lit": "ssh-strict"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 47,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 48,
+          "col": 3,
+          "lit": "persist-credentials"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 50,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 51,
+          "col": 3,
+          "lit": "path"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 53,
+          "col": 3,
+          "lit": "clean"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 55,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 56,
+          "col": 3,
+          "lit": "sparse-checkout"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 60,
+          "col": 14,
+          "lit": ""
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 61,
+          "col": 3,
+          "lit": "sparse-checkout-cone-mode"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 64,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 65,
+          "col": 3,
+          "lit": "fetch-depth"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 67,
+          "col": 14,
+          "lit": "1"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 68,
+          "col": 3,
+          "lit": "lfs"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 70,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 71,
+          "col": 3,
+          "lit": "submodules"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 79,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 80,
+          "col": 3,
+          "lit": "set-safe-directory"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 82,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 83,
+          "col": 3,
+          "lit": "github-server-url"
+        },
+        "value": ""
+      }
+    ]
+  },
+  "execution": {
+    "executionType": "nodeJS",
+    "hasPre": false,
+    "hasPost": true,
+    "script": "dist/index.js",
+    "pre": null,
+    "post": "dist/index.js",
+    "nodeVersion": "node16",
+    "cleanupCondition": "always()",
+    "initCondition": "always()"
+  },
+  "deprecated": null
+}
+[2023-08-01 11:31:42Z INFO ActionManager] Action pre node.js file: N/A.
+[2023-08-01 11:31:42Z INFO ActionManager] Action node.js file: dist/index.js.
+[2023-08-01 11:31:42Z INFO ActionManager] Action post node.js file: dist/index.js.
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Temp': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp'
+[2023-08-01 11:31:42Z INFO ExecutionContext] Write event payload to /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/_github_workflow/event.json
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Temp': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp'
+[2023-08-01 11:31:42Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'repository': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 6,
+  "col": 14,
+  "lit": "ivan-oule/test-deployment"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'ref': default value evaluate result: ""
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'token': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 24,
+  "col": 14,
+  "lit": "***"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'ssh-key': default value evaluate result: ""
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'ssh-known-hosts': default value evaluate result: ""
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'ssh-strict': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 47,
+  "col": 14,
+  "lit": "true"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'persist-credentials': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 50,
+  "col": 14,
+  "lit": "true"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'path': default value evaluate result: ""
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'clean': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 55,
+  "col": 14,
+  "lit": "true"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'sparse-checkout': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 60,
+  "col": 14,
+  "lit": ""
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'sparse-checkout-cone-mode': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 64,
+  "col": 14,
+  "lit": "true"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'fetch-depth': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 67,
+  "col": 14,
+  "lit": "1"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'lfs': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 70,
+  "col": 14,
+  "lit": "false"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'submodules': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 79,
+  "col": 14,
+  "lit": "false"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'set-safe-directory': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 82,
+  "col": 14,
+  "lit": "true"
+}
+[2023-08-01 11:31:42Z INFO ActionManifestManager] Input 'github-server-url': default value evaluate result: ""
+[2023-08-01 11:31:42Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command set-env
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command set-output
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command save-state
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command add-path
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command warning
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command error
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command notice
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command debug
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command group
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2023-08-01 11:31:42Z INFO ActionCommandManager] Register action command extension for command echo
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:42Z INFO HostContext] Well known directory 'Externals': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/externals'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   File name: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/externals/node16/bin/node'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Arguments: '"/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_actions/actions/checkout/v3/dist/index.js"'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/test-deployment/test-deployment'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:42Z INFO ProcessInvokerWrapper] Process started with process id 60527, waiting for process exit.
+[2023-08-01 11:31:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record '5d7618ff-3bb2-5757-b1b5-7570fdc92efe', success rate: 1/1.
+[2023-08-01 11:31:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:44Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:44Z INFO AddMaskCommandExtension] Add new secret mask with length of 32
+[2023-08-01 11:31:45Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:45Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2023-08-01 11:31:50Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:50Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:50Z INFO HostContext] Well known directory 'Work': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work'
+[2023-08-01 11:31:53Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:54Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:54Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'bf3595ff-2486-43b2-8078-78e8f6b19862', success rate: 1/1.
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper] Finished process 60527 with exit code 0, and elapsed time 00:00:12.3232655.
+[2023-08-01 11:31:55Z INFO CreateStepSummaryCommand] Step Summary file (/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_work/_temp/_runner_file_commands/step_summary_aba1f13f-d195-47f1-af6e-9175bc66ba7b) is empty; skipping attachment upload
+[2023-08-01 11:31:55Z INFO StepsRunner] Step result: 
+[2023-08-01 11:31:55Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/checkout",
+  "ref": "v3",
+  "type": "node16",
+  "stage": "Post",
+  "stepId": "bf3595ff-2486-43b2-8078-78e8f6b19862",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 13,
+  "startTime": "2023-08-01T11:31:42.709585Z",
+  "finishTime": "2023-08-01T11:31:55.222444Z"
+}.
+[2023-08-01 11:31:55Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2023-08-01 11:31:55Z INFO StepsRunner] Current state: job state = 'Canceled'
+[2023-08-01 11:31:55Z INFO JobRunner] Finalize job.
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Diag': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_diag'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Diag': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/_diag'
+[2023-08-01 11:31:55Z INFO JobExtension] Initialize Env context
+[2023-08-01 11:31:55Z INFO JobExtension] Initialize steps context
+[2023-08-01 11:31:55Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'fe7c12a9-39f4-403d-a7dc-5a9f260aac9f', success rate: 1/1.
+[2023-08-01 11:31:55Z INFO JobExtension] Total accessible running process: 310.
+[2023-08-01 11:31:55Z INFO JobExtension] Inspecting process environment variables. PID: 60531 (mdworker_shared)
+[2023-08-01 11:31:55Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60531 -o command`
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:55Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60531 -o command'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:55Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60603, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60603 with exit code 0, and elapsed time 00:00:00.1686182.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60531
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60518 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60518 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60518 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60604, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60604 with exit code 0, and elapsed time 00:00:00.0611325.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60518
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60508 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60508 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60508 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60605, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60605 with exit code 0, and elapsed time 00:00:00.0542546.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60508
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60507 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60507 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60507 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60606, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60606 with exit code 0, and elapsed time 00:00:00.0608073.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60507
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60506 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60506 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60506 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60607, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60607 with exit code 0, and elapsed time 00:00:00.1733991.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60506
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60501 (node)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60501 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60501 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60608, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60608 with exit code 0, and elapsed time 00:00:00.0643472.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60501
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60374 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60374 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60374 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60609, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60609 with exit code 0, and elapsed time 00:00:00.0717064.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60374
+[2023-08-01 11:31:56Z INFO JobExtension] Inspecting process environment variables. PID: 60373 (mdworker_shared)
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 60373 -o command`
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Bin': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/bin'
+[2023-08-01 11:31:56Z INFO HostContext] Well known directory 'Root': '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Starting process:
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 60373 -o command'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Working directory: '/Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Process started with process id 60610, waiting for process exit.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-08-01 11:31:56Z INFO ProcessInvokerWrapper] Finished process 60610 with exit code 0, and elapsed time 00:00:00.0529049.
+[2023-08-01 11:31:56Z INFO LinuxProcessExtensions] Successfully dump environment variables for 60373
+[2023-08-01 11:31:56Z INFO JobExtension] Wait for all connectivity checks to finish.
+[2023-08-01 11:31:56Z INFO JobExtension] Connectivity check result: https://acghubeus0.actions.githubusercontent.com/_apis/health: OK
+[2023-08-01 11:31:56Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "complete_job",
+  "type": "runner",
+  "stage": "Post",
+  "stepId": "fe7c12a9-39f4-403d-a7dc-5a9f260aac9f",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 2,
+  "startTime": "2023-08-01T11:31:55.614021Z",
+  "finishTime": "2023-08-01T11:31:56.88263Z"
+}.
+[2023-08-01 11:31:56Z INFO JobRunner] Job result after all job steps finish: Canceled
+[2023-08-01 11:31:56Z INFO JobRunner] Completing the job execution context.
+[2023-08-01 11:31:57Z INFO JobRunner] Shutting down the job server queue.
+[2023-08-01 11:31:57Z INFO JobServerQueue] Fire signal to shutdown all queues.

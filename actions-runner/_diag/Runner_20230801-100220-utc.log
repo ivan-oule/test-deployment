@@ -1139,3 +1139,10 @@
 [2023-08-01 11:28:06Z INFO Terminal] WRITE LINE: 2023-08-01 11:28:06Z: Runner reconnected.
 [2023-08-01 11:28:50Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 01/08/2023 11:38:50
 [2023-08-01 11:29:50Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 01/08/2023 11:39:51
+[2023-08-01 11:30:51Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 01/08/2023 11:40:51
+[2023-08-01 11:31:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/faisceaume/Desktop/Steeve/test-deployment/actions-runner/.credentials_rsaparams
+[2023-08-01 11:31:42Z INFO MessageListener] Message '5' received from session 'a76a5194-59a3-4cb7-a1d7-45f8778e4c6d'.
+[2023-08-01 11:31:42Z INFO JobDispatcher] Job cancellation request 6621f301-ad18-5d46-97dd-869f4cb20c65 received, cancellation timeout 5 minutes.
+[2023-08-01 11:31:42Z INFO JobDispatcher] Send job cancellation message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-08-01 11:31:42Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2023-08-01 11:31:51Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 01/08/2023 11:41:51
